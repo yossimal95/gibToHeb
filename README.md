@@ -9,8 +9,8 @@
 <script src="./gibToHeb.js"></script>
  
  
-gibToHeb('sd eyi ay ku cho l ukp,g pda jcurv bpktv');
-// output 'דג קטן שט לו בים זך ולפתע פגש חבורה נפלאה'
+gibToHeb('sd eyi ay ku cho zl ukp,g nmt jcurv bjnsv');
+// output 'דג קטן שט לו בים זך ולפתע מצא חבורה נחמדה'
 
 
 hebToGib('זה עובד?');
