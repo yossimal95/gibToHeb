@@ -1,5 +1,5 @@
 // example-1
-document.querySelector('.example-1-input').value = hebToGib('דג קטן שט שלו בים זך ולפתע מצא חבורה נחמדה');
+document.querySelector('.example-1-input').value = hebToGib('דג קטן שט לו בים זך ולפתע מצא חבורה נחמדה');
 document.querySelector('.example-1-output').innerText = gibToHeb(document.querySelector('.example-1-input').value);
 
 document.querySelector('.example-1-input').addEventListener('input', (e) => {
