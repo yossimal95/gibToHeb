@@ -2,7 +2,7 @@
 
 #### _GibToHeb to Hebrew_ 
 
-*gibToHeb.js* allows you to convert a text written in Hebrew on a keyboard in Hebrew mode into proper Hebrew..
+*gibToHeb.js* allows you to convert a text written in Hebrew on a keyboard in English mode into proper Hebrew..
 
 ## How to use
 ```html
