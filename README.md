@@ -1,6 +1,6 @@
 # gibToHeb.js
 
-#### _GibToHeb to Hebrew_ 
+#### _Gibberish to Hebrew_ 
 
 *gibToHeb.js* allows you to convert a text written in Hebrew on a keyboard in English mode into proper Hebrew..
 
