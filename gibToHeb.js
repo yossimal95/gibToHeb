@@ -1,7 +1,7 @@
 const releventAsciiTableGibToHeb = {
     96: 59,
     113: 47,
-    39: 39,
+    119: 39,
     101: 1511,
     114: 1512,
     116: 1488,
@@ -30,7 +30,7 @@ const releventAsciiTableGibToHeb = {
     109: 1510,
     44: 1514,
     46: 1509,
-    47: 46,
+    47: 46
 };
 
 const releventAsciiTableHebToGib = {};
